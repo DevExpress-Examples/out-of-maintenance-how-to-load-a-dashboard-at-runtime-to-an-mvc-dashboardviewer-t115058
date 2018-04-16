@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    
+    @Html.DevExpress().GetStyleSheets( 
+    new StyleSheet { ExtensionSuite = ExtensionSuite.DashboardViewer }
+)
+@Html.DevExpress().GetScripts( 
+    new Script { ExtensionSuite = ExtensionSuite.DashboardViewer }
+)
+</head>
+
+<body>
+        <div class="content">
+            @RenderBody()
+        </div>
+</body>
+</html>
