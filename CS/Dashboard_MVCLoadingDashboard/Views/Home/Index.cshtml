@@ -1,0 +1,11 @@
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Welcome to DevExpress ASP.NET MVC project!</h1>
+<p>
+    You've got an empty application that is ready to use DevExpress ASP.NET MVC extensions.
+    You can place the code here to create the required DevExpress extensions.</p>
+@using (Html.BeginForm()) {
+    @Html.Action("DashboardViewerPartial")
+}
