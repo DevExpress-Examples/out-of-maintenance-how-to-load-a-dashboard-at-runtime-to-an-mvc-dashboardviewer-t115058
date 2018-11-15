@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/MVCLoadingDashboard/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/MVCLoadingDashboard/Controllers/HomeController.vb))
+* [_DashboardViewerPartial.cshtml](./CS/MVCLoadingDashboard/Views/Home/_DashboardViewerPartial.cshtml)
+* [Index.cshtml](./CS/MVCLoadingDashboard/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/MVCLoadingDashboard/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to load a dashboard at runtime to an MVC DashboardViewer
 
 
