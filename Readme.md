@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to load a dashboard at runtime to an MVC DashboardViewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t115058)**
+**[[Run Online]](https://codecentral.devexpress.com/t115058/)**
 <!-- run online end -->
 
 
